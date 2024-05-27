@@ -24,7 +24,7 @@ I'm Mohamamd from New York, Im a software engineer, web developer for non-profit
 ---
 
 **`Socials`**
-  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Ares-93)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/mhaider93/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portflio)
+  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt='github' height='40'>](https://github.com/Ares-93)  [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt='linkedin' height='40'>](https://www.linkedin.com/in/mhaider93/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portflio)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-93)](https://github.com/anuraghazra/github-readme-stats)
 
