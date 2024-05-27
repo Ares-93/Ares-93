@@ -4,4 +4,4 @@ I'm Mohamamd from New York, Im a software engineer, web developer for non-profit
 
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ares-93&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Header](./github-header-image-name.png)
+![Header](./github-header-image.png)
