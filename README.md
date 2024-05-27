@@ -37,7 +37,7 @@ I'm Mohamamd from New York, Im a software engineer, web developer for non-profit
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](portflio)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ares-93)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--
 ### 📊 Stats
 [![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ares-93&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
