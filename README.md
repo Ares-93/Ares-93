@@ -11,7 +11,7 @@ I'm Mohamamd from New York, Im a software engineer, web developer for non-profit
 - 📫 How to reach me: email: haidermo1408@gmail.com 
 - ⚡ Fun fact: I play all games with keyboard and mouse
 
-  ### 🧰 Languages and Tools
+**`🧰 Languages and Tools`**
   ---
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
